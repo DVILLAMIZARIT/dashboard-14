@@ -1,2 +1,2 @@
 # dashboard
-*Dashboard* is a simple application to manage your projects, tasks, calendar and contacts.
+**Dashboard** is a simple application to manage your projects, tasks, calendar and contacts.
